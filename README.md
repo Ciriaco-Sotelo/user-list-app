@@ -154,7 +154,7 @@ El constructor() es para preparar la clase y ngOnInit() es para acciones que req
 - WebSockets dibireccional en tiempo real entre cliente y servidor.
 - Responsive Image optimización para diferentes dispositivos. 
 
-**Describe la diferencia entre las etiquetas <div> y <span>.**
+**Describe la diferencia entre las etiquetas div y span.**
 
 **R:** <div> tipo de elemento bloque (ocupa todo el ancho disponible y crea un salto de línea antes y después). 
 Es un contenedor genérico para agrupar bloque de contenido y estructurar el layout.
