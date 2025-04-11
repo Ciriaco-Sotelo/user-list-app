@@ -1,0 +1,18 @@
+@use './variables' as *;
+
+// Estilos globales que complementan MUI
+body {
+  background-color: $secondary-color;
+  margin: 0;
+}
+
+// Sobrescribe estilos específicos de MUI cuando sea necesario
+.MuiCard-root {
+  border-radius: $border-radius-card !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $box-shadow;
+  }
+}
