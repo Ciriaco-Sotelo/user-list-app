@@ -38,7 +38,7 @@ npm install -g yarn
 
 # Clonar el repositorio
 ```
-git clone https://github.com/tu-usuario/user-list-app.git
+git clone https://github.com/Ciriaco-Sotelo/user-list-app.git
 
 cd user-list-app
 ```
