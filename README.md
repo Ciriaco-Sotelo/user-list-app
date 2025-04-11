@@ -156,10 +156,10 @@ El constructor() es para preparar la clase y ngOnInit() es para acciones que req
 
 **Describe la diferencia entre las etiquetas div y span.**
 
-**R:** <div> tipo de elemento bloque (ocupa todo el ancho disponible y crea un salto de línea antes y después). 
+**R:** div tipo de elemento bloque (ocupa todo el ancho disponible y crea un salto de línea antes y después). 
 Es un contenedor genérico para agrupar bloque de contenido y estructurar el layout.
 
-<span> En línea (solo ocupa el espacio necesario y no fuerza saltos de línea). Agrupa texto o elementos en línea para aplicar estilos o manipulación con JavaScript. Ideal para modificar partes específicas del texto (estilos/texto dentro de una línea)
+span En línea (solo ocupa el espacio necesario y no fuerza saltos de línea). Agrupa texto o elementos en línea para aplicar estilos o manipulación con JavaScript. Ideal para modificar partes específicas del texto (estilos/texto dentro de una línea)
 
 **¿Qué son los atributos data- en HTML5 y para qué se utilizan?**
 **R:** Son atributos personalizados que permiten almacenar información adicional en elementos HTML. Están diseñados para guardar datos privados de la página o aplicación que no tienen representación visual pero son útiles para JavaScript (IDs, configuraciones, metadatos) o CSS (atributos en selectores CSS para aplicar estilos condicionales). 
